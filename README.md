@@ -16,7 +16,7 @@ Task List
 
 -[x] Write Meaningful README
 
--[ ] copy Queue Code into own Repository
+-[x] copy Queue Code into own Repository
 
 -[ ] debug code and correct it
 
