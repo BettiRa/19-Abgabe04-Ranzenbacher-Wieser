@@ -18,9 +18,9 @@ Task List
 
 -[x] copy Queue Code into own Repository
 
--[ ] debug code and correct it
+-[x] debug code and correct it
 
-   -[ ] write testcases
+   -[x] write testcases
    
 -[ ] create comments with Javadoc
 
