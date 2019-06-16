@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="test-automation">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Queue/src/main/java" />
+      <root url="file://$PROJECT_DIR$/Queue/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
