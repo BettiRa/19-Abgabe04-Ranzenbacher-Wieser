@@ -26,17 +26,17 @@ Task List
 
     -[ ] integrate picture in report
     
--[ ] create JUnit tests
+-[x] create JUnit tests
 
-    -[ ] with javadoc comments
+    -[x] with javadoc comments
     
     -[ ] integrate picture into report
     
--[ ] modify pom.xml
+-[x] modify pom.xml
 
-    -[ ] create developer information
+    -[x] create developer information
     
-    -[ ] integration logging library log4j with maven dependencies
+    -[wrong?] integration logging library log4j with maven dependencies
     
 -[ ] integrate log4j and write in every method in log
 
