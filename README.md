@@ -22,7 +22,7 @@ Task List
 
    -[x] write testcases
    
--[ ] create comments with Javadoc
+-[x] create comments with Javadoc
 
     -[ ] integrate picture in report
     
@@ -38,28 +38,28 @@ Task List
     
     -[wrong?] integration logging library log4j with maven dependencies
     
--[ ] integrate log4j and write in every method in log
+-[wrong?] integrate log4j and write in every method in log
 
-    -[ ] create static logger, who writes on the console
+    -[wrong?] create static logger, who writes on the console
     
-    -[ ] configurate logger with properties file
+    -[wrong?] configurate logger with properties file
     
-    -[ ] create information logmessage with every method call
+    -[wrong?] create information logmessage with every method call
     
-    -[ ] create error message before error 
+    -[wrong?] create error message before error 
     
-    -[ ] result in documentation (picture)
+    -[wrong?] result in documentation (picture)
     
--[ ] maven site documentation
+-[x] maven site documentation
 
-    -[ ] javadoc code and javadoc test cases
+    -[x] javadoc code and javadoc test cases
     
-    -[ ] menu with reference to manually created site
+    -[x] menu with reference to manually created site
     
-    -[ ] picture of maven site in report
+    -[x] picture of maven site in report
     
 -[ ] markdown lab report
 
--[ ] check if the delivery is complete
+-[?] check if the delivery is complete
 
 -[ ] Upload the PDF
