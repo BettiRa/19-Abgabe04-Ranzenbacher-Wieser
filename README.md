@@ -61,3 +61,25 @@ Task List
 -[x] check if the delivery is complete
 
 -[x] Upload the PDF
+
+
+
+####Markdown Report 
+Markdown report added here, because the pdf does not display it correctly!
+
+##### Python Flavour
+
+```python {.line-numbers}
+numbers = [6, 5, 3, 8, 4, 2, 5, 4, 11]
+for val in numbers:
+    sum = sum+val
+```
+
+##### Java Flavour
+
+```java {.line-numbers}
+int[] array = new int[]{4, 8, 4, 2, 2, 1, 1, 5, 9};
+for( int k: array )
+    { System.out.println("k = "+k); }
+```
+
