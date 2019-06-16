@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/Stefanie Wieser/.m2/repository/junit/junit/4.12/junit-4.12.jar;C:/Users/Stefanie Wieser/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/Stefanie Wieser/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar'
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/Users/Stefanie Wieser/Desktop/UNI/Semester.2/Konfig/Übungen/Finale übung/test-automation/Queue/src/main/java;C:/Users/Stefanie Wieser/Desktop/UNI/Semester.2/Konfig/Übungen/Finale übung/test-automation/Queue/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2019. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Stefanie Wieser/Desktop/UNI/Semester.2/Konfig/Übungen/Finale übung/test-automation/Queue/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Queue 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/Stefanie Wieser/Desktop/UNI/Semester.2/Konfig/Übungen/Finale übung/test-automation/Queue/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Queue 1.0-SNAPSHOT API'
