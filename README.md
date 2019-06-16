@@ -24,13 +24,11 @@ Task List
    
 -[x] create comments with Javadoc
 
-    -[ ] integrate picture in report
+    -[x] integrate picture in report
     
 -[x] create JUnit tests
 
     -[x] with javadoc comments
-    
-    -[ ] integrate picture into report
     
 -[x] modify pom.xml
 
@@ -58,8 +56,8 @@ Task List
     
     -[x] picture of maven site in report
     
--[ ] markdown lab report
+-[x] markdown lab report
 
--[?] check if the delivery is complete
+-[x] check if the delivery is complete
 
--[ ] Upload the PDF
+-[x] Upload the PDF
