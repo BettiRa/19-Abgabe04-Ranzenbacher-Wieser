@@ -2,8 +2,226 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="954d47d9-f47c-4ea2-89db-9b236035fffb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/test_automation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test-automation.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Queue/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/main/java/at/fhj/iit/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/test/java/at/fhj/iit/IntQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/test/java/at/fhj/iit/StringQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/classes/at/fhj/iit/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/classes/at/fhj/iit/StringQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/javadoc-bundle-options/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/allclasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/at/fhj/iit/Queue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/at/fhj/iit/StringQueue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/at/fhj/iit/class-use/Queue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/at/fhj/iit/class-use/StringQueue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/at/fhj/iit/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/at/fhj/iit/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/at/fhj/iit/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/javadoc.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/images/ui-bg_flat_75_ffffff_40x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/images/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/jquery-migrate-3.0.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/member-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/options" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/package-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/packages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/apidocs/type-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/css/maven-base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/css/maven-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/css/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/dependencies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/dependency-info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/images/collapsed.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/images/expanded.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/images/external.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/images/icon_error_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/images/icon_info_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/images/icon_success_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/images/icon_warning_sml.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/images/logos/build-by-maven-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/images/logos/build-by-maven-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/images/logos/maven-feather.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/images/newwindow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/markdown/queue.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/plugin-management.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/plugins.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/target/site/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Queue/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue/src/main/java/at/fhj/iit/StringQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Queue/src/main/java/at/fhj/iit/StringQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/.idea/Queue.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/src/main/java/at/fhj/iit/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/src/main/java/at/fhj/iit/StringQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/src/test/java/at/fhj/iit/IntQueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/src/test/java/at/fhj/iit/StringQueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/classes/at/fhj/iit/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/classes/at/fhj/iit/StringQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/javadoc-bundle-options/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/allclasses.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/at/fhj/iit/Queue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/at/fhj/iit/StringQueue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/at/fhj/iit/class-use/Queue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/at/fhj/iit/class-use/StringQueue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/at/fhj/iit/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/at/fhj/iit/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/at/fhj/iit/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/index-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/javadoc.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/external/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/jquery-3.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/jquery-migrate-3.0.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/jquery-ui.structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/jszip/dist/jszip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/jquery/jszip/dist/jszip.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/member-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/options" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/package-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/packages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/apidocs/type-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/css/maven-base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/css/maven-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/css/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/css/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/dependencies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/dependency-info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/images/close.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/images/collapsed.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/images/expanded.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/images/external.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/images/icon_error_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/images/icon_info_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/images/icon_success_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/images/icon_warning_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/images/logos/build-by-maven-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/images/logos/build-by-maven-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/images/logos/maven-feather.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/images/newwindow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/plugin-management.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/plugins.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-automation/Queue/target/site/team.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +243,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Queue/src/main/java/at/fhj/iit/StringQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="498">
+              <caret line="133" column="5" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,6 +261,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Queue/src/main/java/at/fhj/iit/Queue.java" />
+        <option value="$PROJECT_DIR$/Queue/src/main/java/at/fhj/iit/StringQueue.java" />
       </list>
     </option>
   </component>
@@ -114,16 +336,17 @@
       <workItem from="1560710019746" duration="424000" />
       <workItem from="1560710468147" duration="219000" />
       <workItem from="1560710872261" duration="272000" />
+      <workItem from="1560714243727" duration="25000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1828000" />
+    <option name="totallyTimeSpent" value="1853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27114093" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2751678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -166,8 +389,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Queue/src/main/java/at/fhj/iit/StringQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="498">
+          <caret line="133" column="5" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
